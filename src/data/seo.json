@@ -1,0 +1,124 @@
+{
+  "site": {
+    "name": "BrainCore",
+    "slug": "braincore",
+    "domain": "braincore.swigs.online",
+    "description": "Neurosciences et IA au service de l'humain",
+    "logo": "/logo.png"
+  },
+  "pages": {
+    "home": {
+      "title": "BrainCore | Neurosciences et IA",
+      "description": "BrainCore combine neurosciences et intelligence artificielle pour révolutionner l'apprentissage, la performance et le bien-être. Découvrez nos solutions.",
+      "keywords": ["neurosciences", "IA", "neurofeedback", "BrainCore", "performance cognitive", "apprentissage"],
+      "ogTitle": "BrainCore - Neurosciences et IA au service de l'humain",
+      "ogDescription": "Découvrez comment BrainCore utilise les neurosciences et l'IA pour optimiser votre potentiel cognitif.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online"
+    },
+    "contact": {
+      "title": "Contact | BrainCore",
+      "description": "Contactez l'équipe BrainCore pour en savoir plus sur nos solutions de neurosciences et d'IA.",
+      "keywords": ["contact", "BrainCore", "démonstration", "consultation"],
+      "ogTitle": "Contactez BrainCore",
+      "ogDescription": "Prenez contact avec notre équipe pour une démonstration personnalisée.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/contact"
+    },
+    "research": {
+      "title": "Recherche | BrainCore",
+      "description": "Découvrez les fondements scientifiques de BrainCore : neurofeedback, hyperplasticité cérébrale et recherche en neurosciences.",
+      "keywords": ["recherche", "neurosciences", "neurofeedback", "études scientifiques", "hyperplasticité"],
+      "ogTitle": "Recherche Scientifique - BrainCore",
+      "ogDescription": "Les fondements scientifiques derrière la technologie BrainCore.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/research"
+    },
+    "about": {
+      "title": "À propos | BrainCore",
+      "description": "Découvrez la mission, la vision et les valeurs de BrainCore. Les personnes sont au cœur de tout ce que nous faisons.",
+      "keywords": ["à propos", "BrainCore", "mission", "vision", "équipe", "neurosciences"],
+      "ogTitle": "À propos de BrainCore",
+      "ogDescription": "Notre mission : garantir que chacun puisse s'épanouir dans un monde en constante évolution.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/about"
+    },
+    "investors": {
+      "title": "Investisseurs | BrainCore",
+      "description": "Informations pour les investisseurs intéressés par BrainCore et le marché des neurotechnologies.",
+      "keywords": ["investisseurs", "BrainCore", "neurotechnologies", "opportunité"],
+      "ogTitle": "Investir dans BrainCore",
+      "ogDescription": "Découvrez l'opportunité d'investissement dans les neurotechnologies avec BrainCore.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/investors"
+    },
+    "faq": {
+      "title": "FAQ | BrainCore",
+      "description": "Réponses aux questions fréquentes sur BrainCore, le neurofeedback et nos solutions.",
+      "keywords": ["FAQ", "questions", "neurofeedback", "BrainCore"],
+      "ogTitle": "Questions Fréquentes - BrainCore",
+      "ogDescription": "Trouvez les réponses à vos questions sur BrainCore.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/faq"
+    },
+    "products-business": {
+      "title": "BrainCore pour les Entreprises | BrainCore",
+      "description": "Optimisez la performance de vos équipes avec BrainCore. Solutions de neurosciences pour le leadership et la productivité.",
+      "keywords": ["entreprises", "performance", "leadership", "productivité", "neurosciences"],
+      "ogTitle": "BrainCore pour les Entreprises",
+      "ogDescription": "Solutions de neurosciences pour optimiser la performance de vos équipes.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/products/business"
+    },
+    "products-coaching": {
+      "title": "BrainCore pour le Coaching Individuel | BrainCore",
+      "description": "Accompagnez vos clients avec les outils de neurosciences BrainCore pour un coaching basé sur la science.",
+      "keywords": ["coaching", "individuel", "neurosciences", "développement personnel"],
+      "ogTitle": "BrainCore pour le Coaching Individuel",
+      "ogDescription": "Des outils de neurosciences pour un coaching basé sur la science.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/products/coaching-individuals"
+    },
+    "products-schools": {
+      "title": "BrainCore pour les Écoles | BrainCore",
+      "description": "Intégrez les neurosciences dans l'éducation avec BrainCore. Solutions pour écoles et organisations à but non lucratif.",
+      "keywords": ["écoles", "éducation", "apprentissage", "neurosciences", "nonprofit"],
+      "ogTitle": "BrainCore pour les Écoles et Nonprofits",
+      "ogDescription": "Solutions de neurosciences pour transformer l'apprentissage.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/products/schools"
+    },
+    "products-business-coaches": {
+      "title": "BrainCore pour les Coachs d'Entreprise | BrainCore",
+      "description": "Enrichissez votre pratique de coaching avec les outils de neurosciences BrainCore.",
+      "keywords": ["coachs", "entreprise", "neurosciences", "outils coaching"],
+      "ogTitle": "BrainCore pour les Coachs d'Entreprise",
+      "ogDescription": "Des outils de neurosciences pour enrichir votre pratique de coaching.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/products/business-coaches"
+    },
+    "products-families": {
+      "title": "BrainCore pour les Familles | BrainCore",
+      "description": "Solutions BrainCore pour les familles et les individus. Entraînement cérébral personnalisé et flexible.",
+      "keywords": ["familles", "individus", "entraînement cérébral", "bien-être"],
+      "ogTitle": "BrainCore pour les Familles et Individus",
+      "ogDescription": "Entraînement cérébral personnalisé pour toute la famille.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/products/families"
+    }
+  },
+  "global": {
+    "siteName": "BrainCore",
+    "siteUrl": "https://braincore.swigs.online",
+    "logo": "/logo.png",
+    "language": "fr",
+    "social": {
+      "facebook": "https://www.facebook.com/people/BrainCore/61565885942602/",
+      "instagram": "https://www.instagram.com/braincore_ch/",
+      "linkedin": "https://www.linkedin.com/company/braincore/"
+    },
+    "contact": {
+      "email": "info@braincore.ch"
+    }
+  }
+}

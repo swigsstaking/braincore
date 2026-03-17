@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* Bouton primaire - Violet BrainCore */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-primary-600 text-white font-semibold rounded-lg hover:bg-primary-700 transition-all duration-200 cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500;
+  }
+
+  /* Bouton CTA - Vert accent */
+  .btn-cta {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-accent-500 text-white font-semibold rounded-lg hover:bg-accent-600 transition-all duration-200 cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-500;
+  }
+
+  /* Bouton secondaire */
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 bg-light-200 text-dark-800 font-semibold rounded-lg hover:bg-light-300 transition-all duration-200 cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500;
+  }
+
+  /* Bouton outline */
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-primary-600 text-primary-600 font-semibold rounded-lg hover:bg-primary-600 hover:text-white transition-all duration-200 cursor-pointer focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary-500;
+  }
+
+  /* Bouton outline blanc (sur fond sombre) */
+  .btn-outline-white {
+    @apply inline-flex items-center justify-center gap-2 px-6 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-dark-800 transition-all duration-200 cursor-pointer;
+  }
+
+  /* Container */
+  .container-site {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Section */
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  /* Titre de section */
+  .section-title {
+    @apply text-3xl md:text-4xl font-display font-bold text-dark-800 mb-4;
+  }
+
+  /* Sous-titre de section */
+  .section-subtitle {
+    @apply text-lg text-dark-500 max-w-2xl;
+  }
+
+  /* Card */
+  .card {
+    @apply bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition-all duration-200 cursor-pointer;
+  }
+
+  /* Card avec bordure */
+  .card-bordered {
+    @apply bg-white rounded-xl p-6 border border-light-300 hover:border-primary-300 hover:shadow-md transition-all duration-200 cursor-pointer;
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Focus visible */
+:focus-visible {
+  @apply outline-2 outline-offset-2 outline-primary-500;
+}
+
+/* Skip link for accessibility */
+.skip-link {
+  @apply absolute -top-10 left-4 bg-primary-600 text-white px-4 py-2 rounded-b-lg z-50 transition-all duration-200;
+}
+
+.skip-link:focus {
+  @apply top-0;
+}

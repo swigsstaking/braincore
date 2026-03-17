@@ -1,0 +1,692 @@
+{
+  "nav": {
+    "products": "Prodotti",
+    "research": "Ricerca",
+    "resources": "Risorse",
+    "about": "Chi siamo",
+    "investors": "Investitori",
+    "contact": "Contatto",
+    "signIn": "Accedi",
+    "bookDemo": "Prenota una demo",
+    "news": "Nei media",
+    "caseStudies": "Casi studio",
+    "faq": "FAQ",
+    "aboutBraincore": "Chi è BrainCore",
+    "partners": "Partner",
+    "careers": "Carriere"
+  },
+  "products": {
+    "business": {
+      "name": "BrainCore per le Aziende",
+      "short": "Performance e leadership del team",
+      "hero": "Ottimizza le prestazioni del tuo team",
+      "intro": "BrainCore aiuta le aziende a sviluppare il potenziale cognitivo dei loro team per una performance sostenibile.",
+      "challenges": {
+        "title": "Le sfide che affronti",
+        "items": [
+          "Barriere di performance e plateau di produttività",
+          "Burnout e stress cronico dei dipendenti",
+          "Difficoltà nel mantenere concentrazione e creatività",
+          "Sviluppo insufficiente della leadership"
+        ]
+      },
+      "solution": {
+        "title": "Come BrainCore ti aiuta",
+        "description": "La nostra piattaforma utilizza le neuroscienze e l'IA per identificare e sviluppare le capacità cognitive chiave dei tuoi team."
+      },
+      "difference": {
+        "title": "Perché BrainCore è diverso",
+        "items": [
+          "Ottimizzazione delle prestazioni basata sui dati cerebrali",
+          "Programmi personalizzati di sviluppo della leadership",
+          "Monitoraggio in tempo reale di produttività e benessere",
+          "Integrazione perfetta nel tuo ambiente di lavoro"
+        ]
+      },
+      "outcomes": {
+        "title": "Risultati attesi",
+        "description": "Miglioramento misurabile della concentrazione, riduzione dello stress, aumento della produttività e sviluppo delle competenze di leadership."
+      },
+      "faq": [
+        {
+          "question": "Quanto tempo serve per implementare BrainCore in un'azienda?",
+          "answer": "I tempi di implementazione dipendono dalla dimensione della vostra organizzazione. Per un team pilota di 10-20 persone, prevedete circa 2 settimane. Un'implementazione a livello aziendale richiede generalmente dalle 4 alle 8 settimane, inclusa la formazione dei manager e la personalizzazione della piattaforma."
+        },
+        {
+          "question": "Quale ritorno sull'investimento possiamo aspettarci?",
+          "answer": "In media, i nostri clienti registrano un aumento della produttività del 25% e una riduzione del 30% dell'assenteismo legato allo stress nei primi sei mesi. Il ROI varia a seconda del settore, ma la maggior parte delle aziende recupera l'investimento in meno di un anno."
+        },
+        {
+          "question": "I dati dei nostri collaboratori sono riservati e al sicuro?",
+          "answer": "Assolutamente. BrainCore è pienamente conforme al GDPR e agli standard svizzeri di protezione dei dati. Tutti i dati cognitivi sono crittografati, anonimizzati e ospitati su server sicuri in Svizzera. I datori di lavoro hanno accesso solo a statistiche aggregate, mai ai dati individuali."
+        },
+        {
+          "question": "Possiamo iniziare con un programma pilota?",
+          "answer": "Certamente. Consigliamo anzi di iniziare con un progetto pilota di 3 mesi con un piccolo team. Questo vi permette di misurare concretamente l'impatto di BrainCore sulla vostra organizzazione prima di un'implementazione più ampia."
+        }
+      ]
+    },
+    "coaching": {
+      "name": "BrainCore per il Coaching Individuale",
+      "short": "Strumenti scientifici per coach",
+      "hero": "Arricchisci la tua pratica di coaching",
+      "intro": "Offri ai tuoi clienti un coaching basato sulle neuroscienze con strumenti di misurazione e monitoraggio oggettivi.",
+      "faq": [
+        {
+          "question": "Devo avere una formazione in neuroscienze per usare BrainCore?",
+          "answer": "No, non è necessaria alcuna formazione pregressa in neuroscienze. La nostra piattaforma è progettata per essere intuitiva e accessibile. Offriamo inoltre un programma di onboarding completo che vi permetterà di padroneggiare tutti gli strumenti in pochi giorni."
+        },
+        {
+          "question": "Come si integra BrainCore con la mia metodologia di coaching esistente?",
+          "answer": "BrainCore è pensato come complemento alla vostra pratica, non come sostituto. I dati neurocognitivi arricchiscono le vostre sessioni fornendo misurazioni oggettive che rafforzano il vostro accompagnamento, indipendentemente dal vostro approccio (PNL, coaching sistemico, ecc.)."
+        },
+        {
+          "question": "Posso personalizzare i report con il mio marchio per i clienti?",
+          "answer": "Sì, la nostra offerta coaching include la possibilità di personalizzare i report con il vostro logo, i vostri colori e la vostra identità visiva. I vostri clienti ricevono così documenti professionali che riflettono la vostra immagine."
+        },
+        {
+          "question": "Quali certificazioni offre BrainCore per i coach?",
+          "answer": "Offriamo un programma di certificazione a tre livelli: Practitioner BrainCore, Coach Certificato BrainCore e Formatore BrainCore. Ogni livello comprende una formazione teorica e pratica, con un esame convalidato dal nostro comitato scientifico."
+        }
+      ],
+      "challenges": {
+        "title": "Le sfide che affronti",
+        "items": [
+          "Mancanza di strumenti di misurazione oggettivi nel coaching",
+          "Difficoltà nel monitorare i progressi dei clienti nel tempo",
+          "Necessità di differenziarsi dagli altri coach",
+          "Supporto scientifico limitato per i metodi di coaching"
+        ]
+      },
+      "solution": {
+        "title": "Come BrainCore ti aiuta",
+        "description": "La nostra piattaforma fornisce ai coach strumenti basati sulle neuroscienze per misurare e monitorare oggettivamente le prestazioni cognitive."
+      },
+      "difference": {
+        "title": "Perché BrainCore è diverso",
+        "items": [
+          "Strumenti neuroscientifici per misurazioni oggettive",
+          "Monitoraggio dei progressi dei clienti con analisi basate sui dati",
+          "Raccomandazioni personalizzate sulle prestazioni cognitive",
+          "Risultati misurabili attraverso indicatori di attività cerebrale"
+        ]
+      },
+      "outcomes": {
+        "title": "Risultati attesi",
+        "description": "Dimostra ai tuoi clienti progressi reali e quantificabili attraverso indicatori di prestazione cognitiva e allenamento cerebrale personalizzato."
+      }
+    },
+    "schools": {
+      "name": "BrainCore per le Scuole",
+      "short": "Neuroscienze per l'educazione",
+      "hero": "Trasforma l'apprendimento attraverso le neuroscienze",
+      "intro": "Integra le neuroscienze nella tua istituzione per un apprendimento più efficace e inclusivo.",
+      "faq": [
+        {
+          "question": "Per quali fasce d'età è adatto BrainCore?",
+          "answer": "BrainCore è adatto agli studenti dai 6 anni fino all'istruzione superiore. I protocolli e le interfacce sono specificamente progettati per ogni fascia d'età, con esercizi ludici per i più piccoli e programmi più approfonditi per adolescenti e studenti universitari."
+        },
+        {
+          "question": "Come si integra BrainCore nel programma scolastico esistente?",
+          "answer": "BrainCore viene utilizzato in affiancamento al programma scolastico, sotto forma di sessioni da 20-30 minuti, due o tre volte alla settimana. Gli insegnanti possono facilmente inserire queste sessioni nel loro orario senza interferire con le lezioni regolari."
+        },
+        {
+          "question": "Quale formazione è necessaria per gli insegnanti?",
+          "answer": "Offriamo una formazione di una giornata per gli insegnanti che copre le basi del neurofeedback e l'utilizzo della piattaforma. Supporto continuo e risorse pedagogiche sono poi disponibili per tutto l'anno scolastico."
+        },
+        {
+          "question": "Esistono tariffe speciali per scuole e organizzazioni non profit?",
+          "answer": "Sì, offriamo tariffe agevolate per le scuole pubbliche e private, così come per le organizzazioni non profit. Contattateci per un preventivo su misura per la dimensione e le esigenze del vostro istituto."
+        }
+      ],
+      "challenges": {
+        "title": "Le sfide che affronti",
+        "items": [
+          "Esigenze di apprendimento e profili cognitivi diversificati",
+          "Difficoltà nel misurare oggettivamente lo sviluppo cognitivo",
+          "Problemi di attenzione e concentrazione in classe",
+          "Necessità di strumenti educativi inclusivi e scientifici"
+        ]
+      },
+      "solution": {
+        "title": "Come BrainCore ti aiuta",
+        "description": "La nostra piattaforma offre strumenti basati sulle neuroscienze adattati alle diverse esigenze di apprendimento per sostenere lo sviluppo cognitivo nelle scuole."
+      },
+      "difference": {
+        "title": "Perché BrainCore è diverso",
+        "items": [
+          "Strumenti di apprendimento inclusivi basati sulle neuroscienze",
+          "Monitoraggio oggettivo dello sviluppo cognitivo",
+          "Sorveglianza dei modelli di attenzione in classe",
+          "Programmi adattati per età, dalla scuola primaria all'università"
+        ]
+      },
+      "outcomes": {
+        "title": "Risultati attesi",
+        "description": "Migliore concentrazione degli studenti, migliori risultati accademici e supporto alle diverse esigenze di apprendimento grazie agli strumenti neuroscientifici."
+      }
+    },
+    "businessCoaches": {
+      "name": "BrainCore per i Business Coach",
+      "short": "Coaching professionale potenziato",
+      "hero": "Il business coaching di nuova generazione",
+      "intro": "Differenziati con strumenti di neuroscienze che offrono risultati misurabili per i tuoi clienti professionali.",
+      "faq": [
+        {
+          "question": "In cosa si differenzia questo prodotto dal coaching individuale?",
+          "answer": "L'offerta Business Coach è specificamente progettata per il coaching in contesto aziendale. Include strumenti di analisi del team, dashboard di performance collettiva e protocolli adattati alle sfide organizzative come la leadership, la gestione dello stress lavorativo e le dinamiche di team."
+        },
+        {
+          "question": "Posso utilizzare BrainCore con i team dirigenziali?",
+          "answer": "Assolutamente. BrainCore è particolarmente efficace con i comitati direttivi e i team esecutivi. Gli strumenti di mappatura cognitiva del team aiutano a identificare le complementarità e a rafforzare la coesione ai massimi livelli dell'organizzazione."
+        },
+        {
+          "question": "Quali metriche e report sono disponibili?",
+          "answer": "Avete accesso a indicatori di performance cognitiva individuali e collettivi, report di avanzamento, analisi delle dinamiche di team e dashboard personalizzabili. Tutti i report possono essere esportati e integrati nelle vostre presentazioni per i clienti."
+        },
+        {
+          "question": "Come posso diventare un business coach certificato BrainCore?",
+          "answer": "Il programma di certificazione BrainCore Business Coach comprende 5 giorni di formazione intensiva, mentoring personalizzato e una valutazione pratica. È richiesta un'esperienza pregressa nel coaching professionale. La certificazione dà accesso a tutti gli strumenti aziendali e alla rete di coach BrainCore."
+        }
+      ],
+      "challenges": {
+        "title": "Le sfide che affronti",
+        "items": [
+          "Necessità di differenziarsi dalle offerte di coaching tradizionali",
+          "I clienti richiedono risultati misurabili e basati sui dati",
+          "Difficoltà nel scalare il coaching ai team dirigenziali",
+          "Mancanza di strumenti neuroscientifici per il coaching organizzativo"
+        ]
+      },
+      "solution": {
+        "title": "Come BrainCore ti aiuta",
+        "description": "La nostra piattaforma fornisce ai business coach strumenti neuroscientifici che offrono risultati misurabili per dirigenti e team."
+      },
+      "difference": {
+        "title": "Perché BrainCore è diverso",
+        "items": [
+          "Differenziazione professionale con il supporto delle neuroscienze",
+          "Analisi basate sui dati dell'attività cerebrale",
+          "Soluzioni scalabili pronte per l'azienda",
+          "Strategie di coaching basate sulle evidenze per i dirigenti"
+        ]
+      },
+      "outcomes": {
+        "title": "Risultati attesi",
+        "description": "Distinguiti con risultati di coaching misurabili, sviluppo dei dirigenti basato sui dati e soluzioni di coaching organizzativo scalabili."
+      }
+    },
+    "families": {
+      "name": "BrainCore per le Famiglie",
+      "short": "Benessere cognitivo per tutti",
+      "hero": "Benessere cognitivo per tutta la famiglia",
+      "intro": "Programmi di allenamento cerebrale personalizzati e flessibili per ogni membro della famiglia.",
+      "faq": [
+        {
+          "question": "BrainCore è sicuro per i bambini?",
+          "answer": "Sì, il neurofeedback è un metodo completamente non invasivo e privo di effetti collaterali noti. BrainCore utilizza esclusivamente sensori passivi che misurano l'attività cerebrale. I nostri protocolli per bambini sono appositamente progettati e validati dal nostro comitato scientifico pediatrico."
+        },
+        {
+          "question": "Più membri della famiglia possono usare lo stesso account?",
+          "answer": "Sì, il nostro abbonamento famiglia consente fino a 5 profili individuali su un unico account. Ogni membro dispone del proprio programma personalizzato e del proprio monitoraggio dei progressi, il tutto a una tariffa vantaggiosa."
+        },
+        {
+          "question": "Quanto tempo alla settimana è necessario?",
+          "answer": "Consigliamo 2-3 sessioni da 20 minuti a settimana per risultati ottimali. Le sessioni sono flessibili e possono essere svolte in qualsiasi momento della giornata, adattandosi facilmente al ritmo della vostra famiglia."
+        },
+        {
+          "question": "BrainCore può aiutare in caso di ADHD o difficoltà di apprendimento?",
+          "answer": "Il neurofeedback è stato oggetto di numerosi studi scientifici che mostrano risultati promettenti per l'ADHD e alcune difficoltà di apprendimento. BrainCore offre protocolli specifici per l'attenzione e la concentrazione. Tuttavia, consigliamo di consultare un professionista sanitario per un supporto completo."
+        }
+      ],
+      "challenges": {
+        "title": "Le sfide che affronti",
+        "items": [
+          "Impatto del tempo davanti allo schermo sullo sviluppo cognitivo dei bambini",
+          "Stress e ansia che influenzano il benessere familiare",
+          "Difficoltà nel mantenere la concentrazione per bambini e adulti",
+          "Mancanza di soluzioni accessibili di allenamento cerebrale per le famiglie"
+        ]
+      },
+      "solution": {
+        "title": "Come BrainCore ti aiuta",
+        "description": "La nostra piattaforma offre programmi di allenamento cerebrale personalizzati adattati a ogni membro della famiglia, dai bambini agli adulti."
+      },
+      "difference": {
+        "title": "Perché BrainCore è diverso",
+        "items": [
+          "Programmi adattati a ogni membro della famiglia",
+          "Attenzione al benessere cognitivo e all'equilibrio emotivo",
+          "Sessioni flessibili che si adattano ai ritmi familiari",
+          "Allenamento cerebrale sicuro e non invasivo per i bambini"
+        ]
+      },
+      "outcomes": {
+        "title": "Risultati attesi",
+        "description": "Migliore concentrazione, riduzione dello stress, equilibrio emotivo migliorato e benessere cognitivo potenziato per tutta la famiglia."
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Neuroscienze e IA",
+      "subtitle": "Rivoluzionare il futuro al servizio dell'umanità",
+      "description": "BrainCore combina le ultime scoperte in neuroscienze e intelligenza artificiale per sviluppare il potenziale cognitivo di ognuno.",
+      "cta1": "Prenota una demo",
+      "cta2": "Esplora le soluzioni"
+    },
+    "audience": {
+      "title": "A chi si rivolge BrainCore?",
+      "subtitle": "Soluzioni adattate a ogni esigenza"
+    },
+    "howItWorks": {
+      "title": "Come funziona BrainCore",
+      "subtitle": "Un processo semplice, risultati misurabili",
+      "steps": [
+        {
+          "title": "Valutazione",
+          "description": "Analisi completa del tuo profilo cognitivo con i nostri strumenti di neuroscienze."
+        },
+        {
+          "title": "Programma personalizzato",
+          "description": "Un programma di allenamento su misura basato sui tuoi risultati e obiettivi."
+        },
+        {
+          "title": "Allenamento",
+          "description": "Sessioni di neurofeedback guidate dall'IA per ottimizzare le tue capacità cognitive."
+        },
+        {
+          "title": "Monitoraggio e risultati",
+          "description": "Misurazione continua dei progressi e adeguamento del programma per risultati duraturi."
+        }
+      ]
+    },
+    "science": {
+      "label": "Scienza",
+      "title": "Fondato sulla scienza",
+      "subtitle": "BrainCore si basa su decenni di ricerca nelle neuroscienze",
+      "description": "Il nostro approccio combina neurofeedback, iperplasticità cerebrale e intelligenza artificiale per risultati scientificamente validati.",
+      "cta": "Scopri la nostra ricerca"
+    },
+    "testimonials": {
+      "title": "Si fidano di noi",
+      "subtitle": "Scopri i risultati ottenuti dai nostri utenti",
+      "items": [
+        {
+          "quote": "BrainCore ha trasformato le prestazioni del nostro team. I risultati sono misurabili e duraturi.",
+          "name": "Marie L.",
+          "role": "Direttrice HR"
+        },
+        {
+          "quote": "Come coach, gli strumenti BrainCore mi hanno permesso di offrire un coaching veramente scientifico.",
+          "name": "Jean-Pierre D.",
+          "role": "Coach professionista"
+        },
+        {
+          "quote": "I nostri studenti mostrano un miglioramento significativo nella concentrazione e nei risultati accademici.",
+          "name": "Sophie M.",
+          "role": "Direttrice scolastica"
+        }
+      ]
+    },
+    "partners": {
+      "title": "I nostri partner",
+      "subtitle": "Istituzioni e organizzazioni di fiducia",
+      "placeholder": "Partner {{number}}"
+    },
+    "finalCta": {
+      "title": "Pronto a sviluppare il tuo potenziale?",
+      "subtitle": "Unisciti a migliaia di persone che trasformano la loro vita con BrainCore.",
+      "cta1": "Prenota una demo",
+      "cta2": "Contattaci",
+      "cta3": "Esplora le soluzioni"
+    },
+    "video": {
+      "placeholder": "Video in arrivo"
+    }
+  },
+  "research": {
+    "title": "Ricerca Scientifica",
+    "subtitle": "Le basi scientifiche di BrainCore",
+    "intro": {
+      "title": "Introduzione al neurofeedback",
+      "description": "Il neurofeedback è un metodo non invasivo di allenamento cerebrale che ottimizza il funzionamento del cervello in tempo reale."
+    },
+    "methodology": {
+      "title": "La nostra metodologia",
+      "description": "BrainCore combina le ultime scoperte in neuroscienze computazionali con l'intelligenza artificiale per creare programmi di allenamento personalizzati."
+    },
+    "innovation": {
+      "title": "Innovazione e ricerca",
+      "description": "I nostri team di ricerca lavorano continuamente per migliorare i nostri algoritmi e protocolli."
+    }
+  },
+  "about": {
+    "title": "Chi è BrainCore",
+    "mission": {
+      "title": "La nostra missione",
+      "description": "In BrainCore, le persone sono al centro di tutto ciò che facciamo. Anticipiamo i cambiamenti nel panorama dell'informazione per garantire che ognuno possa prosperare in un mondo in costante evoluzione."
+    },
+    "vision": {
+      "title": "La nostra visione",
+      "description": "Un mondo in cui ogni individuo può accedere agli strumenti di neuroscienze per sviluppare pienamente il proprio potenziale cognitivo."
+    },
+    "values": {
+      "title": "I nostri valori",
+      "items": [
+        {
+          "title": "Umanesimo e benessere",
+          "description": "Le persone sono al centro di tutte le nostre decisioni."
+        },
+        {
+          "title": "Educazione e pensiero critico",
+          "description": "Crediamo nel potere dell'apprendimento continuo."
+        },
+        {
+          "title": "Creatività e resilienza",
+          "description": "L'innovazione nasce dalla creatività e dalla perseveranza."
+        },
+        {
+          "title": "Scienza e ricerca",
+          "description": "Le nostre soluzioni si basano su solide prove scientifiche."
+        }
+      ]
+    },
+    "team": {
+      "title": "Il nostro team",
+      "subtitle": "Esperti in neuroscienze, IA e tecnologia",
+      "members": [
+        {
+          "name": "CEO & Fondatore",
+          "role": "Amministratore Delegato"
+        },
+        {
+          "name": "CTO",
+          "role": "Direttore Tecnico"
+        },
+        {
+          "name": "Responsabile Ricerca",
+          "role": "Responsabile Neuroscienze"
+        },
+        {
+          "name": "COO",
+          "role": "Direttore Operativo"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Il nostro team è a tua disposizione per rispondere alle tue domande.",
+    "form": {
+      "name": "Nome",
+      "namePlaceholder": "Il tuo nome completo",
+      "email": "Email",
+      "emailPlaceholder": "tua@email.com",
+      "phone": "Telefono (opzionale)",
+      "phonePlaceholder": "+41 XX XXX XX XX",
+      "inquiryType": "Tipo di richiesta",
+      "inquiryPlaceholder": "Seleziona un tipo di richiesta",
+      "inquiryOptions": {
+        "demo": "Richiesta demo",
+        "info": "Richiesta informazioni",
+        "partnership": "Partnership",
+        "support": "Supporto tecnico",
+        "other": "Altro"
+      },
+      "message": "Messaggio",
+      "messagePlaceholder": "Come possiamo aiutarti?",
+      "submit": "Invia",
+      "sending": "Invio in corso...",
+      "success": "Grazie! Ti ricontatteremo al più presto.",
+      "error": "Qualcosa è andato storto. Riprova o contattaci direttamente a info@braincore.ch."
+    },
+    "validation": {
+      "nameRequired": "Il nome è obbligatorio",
+      "nameMin": "Il nome deve contenere almeno 2 caratteri",
+      "emailRequired": "L'email è obbligatoria",
+      "emailInvalid": "Formato email non valido",
+      "phoneInvalid": "Formato telefono non valido",
+      "inquiryRequired": "Seleziona un tipo di richiesta",
+      "messageRequired": "Il messaggio è obbligatorio",
+      "messageMin": "Il messaggio deve contenere almeno 10 caratteri"
+    }
+  },
+  "investors": {
+    "title": "Investitori",
+    "subtitle": "Unisciti alla rivoluzione delle neurotecnologie",
+    "market": {
+      "title": "Opportunità di mercato",
+      "description": "Il mercato globale delle neurotecnologie sta vivendo una crescita esponenziale, trainato dalla crescente domanda di soluzioni per il benessere cognitivo."
+    },
+    "technology": {
+      "title": "Vantaggi tecnologici",
+      "description": "La nostra piattaforma proprietaria combina neurofeedback e IA con una precisione e personalizzazione senza pari."
+    },
+    "cta": "Contatta il team investitori",
+    "stats": [
+      {
+        "value": "$12B+",
+        "label": "Dimensione del mercato 2025"
+      },
+      {
+        "value": "15%",
+        "label": "Crescita annuale"
+      },
+      {
+        "value": "500M+",
+        "label": "Utenti potenziali"
+      },
+      {
+        "value": "5x",
+        "label": "Potenziale di crescita"
+      }
+    ],
+    "techAdvantages": [
+      "Algoritmi di IA proprietari",
+      "Neurofeedback in tempo reale",
+      "Piattaforma cloud",
+      "Architettura scalabile"
+    ]
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "subtitle": "Trova le risposte alle tue domande su BrainCore e il neurofeedback.",
+    "items": [
+      {
+        "question": "Cos'è il neurofeedback?",
+        "answer": "Il neurofeedback è un metodo non invasivo di allenamento cerebrale che utilizza sensori per misurare l'attività cerebrale in tempo reale e fornire feedback che aiuta il cervello a ottimizzare il suo funzionamento."
+      },
+      {
+        "question": "BrainCore è sicuro?",
+        "answer": "Sì, il neurofeedback è un metodo non invasivo senza effetti collaterali noti. BrainCore utilizza solo sensori passivi che misurano l'attività cerebrale senza inviare segnali al cervello."
+      },
+      {
+        "question": "Quanto tempo ci vuole per vedere i risultati?",
+        "answer": "I primi risultati sono generalmente percepibili dopo 5-10 sessioni. Miglioramenti significativi e duraturi si osservano tipicamente dopo 20-40 sessioni."
+      },
+      {
+        "question": "A chi si rivolge BrainCore?",
+        "answer": "BrainCore è per tutti: aziende, coach, scuole, famiglie e individui. Le nostre soluzioni sono adattate a ogni profilo e obiettivo."
+      },
+      {
+        "question": "Come accedo alla piattaforma BrainCore?",
+        "answer": "Puoi accedere alla piattaforma BrainCore cliccando su 'Accedi' nel menu. Per creare un account, contattaci o prenota una demo."
+      },
+      {
+        "question": "Quali sono i prezzi?",
+        "answer": "I nostri prezzi variano in base al tipo di soluzione e al numero di utenti. Contattaci per un preventivo personalizzato."
+      }
+    ]
+  },
+  "news": {
+    "title": "Nei Media",
+    "subtitle": "BrainCore nella stampa e nei media",
+    "items": [
+      {
+        "date": "2024-03-15",
+        "source": "TechCrunch",
+        "title": "BrainCore raccoglie fondi per democratizzare il neurofeedback"
+      },
+      {
+        "date": "2024-02-28",
+        "source": "Le Temps",
+        "title": "Neurotecnologia svizzera: BrainCore apre la strada"
+      },
+      {
+        "date": "2024-01-20",
+        "source": "Nature Neuroscience",
+        "title": "Neurofeedback personalizzato: una rassegna dell'approccio BrainCore"
+      },
+      {
+        "date": "2023-12-10",
+        "source": "Forbes",
+        "title": "10 startup di neurotecnologia da seguire nel 2024"
+      }
+    ],
+    "readArticle": "Leggi l'articolo"
+  },
+  "caseStudies": {
+    "title": "Casi Studio",
+    "subtitle": "Scopri come BrainCore trasforma vite",
+    "items": [
+      {
+        "title": "Aumento della produttività aziendale",
+        "client": "Azienda tecnologica Fortune 500",
+        "challenge": "Ambiente ad alta pressione che porta a burnout e calo di produttività nei team di ingegneria.",
+        "results": [
+          "+32% di produttività",
+          "-45% di livelli di stress",
+          "89% di soddisfazione dei dipendenti"
+        ]
+      },
+      {
+        "title": "Miglioramento delle prestazioni scolastiche",
+        "client": "Scuola Internazionale di Ginevra",
+        "challenge": "Studenti in difficoltà con attenzione e concentrazione, con impatto sui risultati accademici.",
+        "results": [
+          "+28% nei punteggi di attenzione",
+          "+15% di risultati accademici",
+          "94% di soddisfazione dei genitori"
+        ]
+      },
+      {
+        "title": "Sviluppo della leadership esecutiva",
+        "client": "Società globale di servizi finanziari",
+        "challenge": "Team dirigenziale con necessità di migliorare le prestazioni cognitive e la gestione dello stress.",
+        "results": [
+          "+40% di qualità decisionale",
+          "-35% di risposta allo stress",
+          "96% di fidelizzazione dei partecipanti"
+        ]
+      }
+    ],
+    "challengeLabel": "Sfida",
+    "resultsLabel": "Risultati",
+    "readMore": "Leggi il caso studio completo"
+  },
+  "partners": {
+    "title": "I Nostri Partner",
+    "subtitle": "Istituzioni e organizzazioni che condividono la nostra visione",
+    "categories": {
+      "research": "Ricerca",
+      "clinical": "Clinica",
+      "corporate": "Azienda",
+      "education": "Istruzione"
+    },
+    "items": [
+      {
+        "name": "Partner di Ricerca 1",
+        "description": "Istituto di ricerca neuroscientifica di primo piano",
+        "category": "research"
+      },
+      {
+        "name": "Partner di Ricerca 2",
+        "description": "Laboratorio universitario specializzato in scienze cognitive",
+        "category": "research"
+      },
+      {
+        "name": "Partner Clinico 1",
+        "description": "Clinica neurologica specializzata",
+        "category": "clinical"
+      },
+      {
+        "name": "Partner Clinico 2",
+        "description": "Centro di salute mentale",
+        "category": "clinical"
+      },
+      {
+        "name": "Partner Aziendale 1",
+        "description": "Grande azienda tecnologica",
+        "category": "corporate"
+      },
+      {
+        "name": "Partner Aziendale 2",
+        "description": "Società di consulenza internazionale",
+        "category": "corporate"
+      },
+      {
+        "name": "Partner Scolastico 1",
+        "description": "Scuola internazionale privata",
+        "category": "education"
+      },
+      {
+        "name": "Partner Scolastico 2",
+        "description": "Università pubblica",
+        "category": "education"
+      }
+    ],
+    "allFilter": "Tutti",
+    "logoPlaceholder": "LOGO"
+  },
+  "careers": {
+    "title": "Carriere",
+    "subtitle": "Unisciti al team BrainCore",
+    "culture": {
+      "title": "La nostra cultura",
+      "description": "In BrainCore, crediamo che l'innovazione nasca dalla diversità delle prospettive e dalla passione per la scienza."
+    },
+    "why": {
+      "title": "Perché unirsi a BrainCore?",
+      "items": [
+        "Lavorare all'avanguardia delle neuroscienze e dell'IA",
+        "Impatto positivo sulla vita di migliaia di persone",
+        "Ambiente di lavoro stimolante e collaborativo",
+        "Opportunità di sviluppo professionale continuo"
+      ]
+    },
+    "openRoles": "Posizioni aperte",
+    "noRoles": "Nessuna posizione aperta al momento. Invia la tua candidatura spontanea a"
+  },
+  "footer": {
+    "description": "Neuroscienze e IA al servizio dell'umanità",
+    "quickLinks": "Link rapidi",
+    "legal": "Note legali",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "newsletter": {
+      "title": "Newsletter",
+      "placeholder": "La tua email",
+      "subscribe": "Iscriviti"
+    },
+    "copyright": "© {{year}} BrainCore. Tutti i diritti riservati."
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "description": "La pagina che cerchi non esiste o è stata spostata.",
+    "backHome": "Torna alla home",
+    "contact": "Contattaci",
+    "products": "Le nostre soluzioni"
+  },
+  "common": {
+    "bookDemo": "Prenota una demo",
+    "contactUs": "Contattaci",
+    "exploreSolutions": "Esplora le soluzioni",
+    "learnMore": "Scopri di più",
+    "requestInfo": "Richiedi informazioni",
+    "readMore": "Leggi di più",
+    "viewAll": "Vedi tutto",
+    "back": "Indietro",
+    "faqSectionTitle": "Domande frequenti"
+  }
+}
