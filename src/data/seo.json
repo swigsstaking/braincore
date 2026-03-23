@@ -61,6 +61,15 @@
       "ogImage": "/og-image.jpg",
       "canonical": "https://braincore.swigs.online/faq"
     },
+    "blog": {
+      "title": "Blog | BrainCore",
+      "description": "Articles, mises à jour et réflexions de l'équipe BrainCore sur les neurosciences, l'IA et le développement cognitif.",
+      "keywords": ["blog", "neurosciences", "IA", "BrainCore", "articles"],
+      "ogTitle": "Blog BrainCore",
+      "ogDescription": "Découvrez nos articles sur les neurosciences et l'intelligence artificielle.",
+      "ogImage": "/og-image.jpg",
+      "canonical": "https://braincore.swigs.online/blog"
+    },
     "products-business": {
       "title": "BrainCore pour les Entreprises | BrainCore",
       "description": "Optimisez la performance de vos équipes avec BrainCore. Solutions de neurosciences pour le leadership et la productivité.",

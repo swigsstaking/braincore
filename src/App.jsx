@@ -14,6 +14,8 @@ import Investors from './pages/Investors';
 import News from './pages/News';
 import CaseStudies from './pages/CaseStudies';
 import FAQ from './pages/FAQ';
+import Blog from './pages/Blog';
+import BlogPost from './pages/BlogPost';
 import NotFound from './pages/NotFound';
 
 // Product pages
@@ -46,6 +48,8 @@ function AppRoutes() {
           <Route path="news" element={<News />} />
           <Route path="case-studies" element={<CaseStudies />} />
           <Route path="faq" element={<FAQ />} />
+          <Route path="blog" element={<Blog />} />
+          <Route path="blog/:slug" element={<BlogPost />} />
           <Route path="products/business" element={<ProductBusiness />} />
           <Route path="products/coaching-individuals" element={<ProductCoaching />} />
           <Route path="products/schools" element={<ProductSchools />} />

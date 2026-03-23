@@ -82,6 +82,8 @@ export default function Layout() {
     { label: t('nav.research'), path: '/research' },
     { label: t('nav.resources'), children: [
       { label: t('nav.news'), path: '/news' },
+      { label: t('nav.investors'), path: '/investors' },
+      { label: t('nav.blog'), path: '/blog' },
       { label: t('nav.caseStudies'), path: '/case-studies' },
       { label: t('nav.faq'), path: '/faq' },
     ]},
@@ -90,7 +92,6 @@ export default function Layout() {
       { label: t('nav.partners'), path: '/partners' },
       { label: t('nav.careers'), path: '/careers' },
     ]},
-    { label: t('nav.investors'), path: '/investors' },
     { label: t('nav.contact'), path: '/contact' },
   ];
 

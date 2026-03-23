@@ -11,6 +11,7 @@
     "news": "In den Medien",
     "caseStudies": "Fallstudien",
     "faq": "FAQ",
+    "blog": "Blog",
     "aboutBraincore": "Über BrainCore",
     "partners": "Partner",
     "careers": "Karriere"
@@ -670,6 +671,12 @@
       "subscribe": "Abonnieren"
     },
     "copyright": "© {{year}} BrainCore. Alle Rechte vorbehalten."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Artikel, Updates und Einblicke vom BrainCore-Team.",
+    "comingSoon": "Demnächst verfügbar",
+    "comingSoonDescription": "Unser Blog wird vorbereitet. Schauen Sie bald wieder vorbei für Artikel über Neurowissenschaften, KI und kognitive Entwicklung."
   },
   "notFound": {
     "title": "Seite nicht gefunden",

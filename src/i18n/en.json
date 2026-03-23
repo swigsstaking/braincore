@@ -11,6 +11,7 @@
     "news": "In the News",
     "caseStudies": "Case Studies",
     "faq": "FAQ",
+    "blog": "Blog",
     "aboutBraincore": "About BrainCore",
     "partners": "Partners",
     "careers": "Careers"
@@ -670,6 +671,12 @@
       "subscribe": "Subscribe"
     },
     "copyright": "© {{year}} BrainCore. All rights reserved."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Articles, updates, and insights from the BrainCore team.",
+    "comingSoon": "Coming Soon",
+    "comingSoonDescription": "Our blog is being prepared. Check back soon for articles about neuroscience, AI, and cognitive development."
   },
   "notFound": {
     "title": "Page not found",
